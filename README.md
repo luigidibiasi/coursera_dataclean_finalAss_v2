@@ -1,5 +1,5 @@
 # coursera_dataclean_finalAss_v2
-# run_analysis
+
 
 This is a project for the Getting and Cleaning Data course.
 The goal is to produce clean, tidy data saved in a text file named "FinalData.txt", utilizing various functions and methods covered throughout the course.
